@@ -1,0 +1,60 @@
+Computing summaries and embeddings for 1 texts...
+EXTRACT:
+
+﻿TREASURE ISLAND
+
+
+
+
+PART ONE--The Old Buccaneer
+
+
+
+
+1
+
+The Old Sea-dog at the Admiral Benbow
+
+
+SQUIRE TRELAWNEY, Dr. Livesey, and the rest of these gentlemen having
+asked me to write down the whole particulars about Treasure Island, from
+the beginning to the end, keeping nothing back but the bearings of the
+island, and that only because there is still treasure not yet lifted, I
+take up my pen in the year of grace 17__ and go back to the time when
+my father kept the Admiral Benbow inn and the brown old seaman with the
+sabre cut first took up his lodging under our roof.
+
+I remember him as if it were yesterday, as he came plodding to the
+inn door, his sea-chest following behind him in a hand-barrow--a
+tall, strong, heavy, nut-brown man, his tarry pigtail falling over the
+shoulder of his soiled blue coat, his hands ragged and scarred, with
+black, broken nails, and the sabre cut across one cheek, a dirty, livid
+white. I remember him looking round the cove and whistling to himself
+as he did so, and then breaking out in that old sea-song that he sang so
+often afterwards:
+
+SUMMARY:
+
+1. The narrator: The narrator is writing down the story of Treasure Island
+from the beginning to the end as told to him by his father who used to run the
+Admiral Benbow inn, where the story takes place.
+
+2. Squire Trelawney: Squire Trelawney is one of the gentlemen who has asked
+the narrator to write the story of Treasure Island. At present, he doesn't
+have much role in the story except for initiating the writing of it.
+
+3. Dr. Livesey: Dr. Livesey is another gentleman who has asked the narrator to
+write the story of Treasure Island. Again, at present, he doesn't have a
+significant role in the story other than being one of the people to have
+requested it.
+
+4. The old sea-dog: The old sea-dog is a brown, strong, heavy, nut-brown man
+who arrives at the Admiral Benbow inn with a chest in a hand-barrow. He has a
+tarry pigtail that falls over the shoulder of his soiled blue coat, ragged and
+scarred hands, and a sabre cut across one cheek. He whistles and sings an old
+sea-song, and is a character who will play a significant role in the story.
+
+
+.
+
+Elapsed time: 9.1854 seconds
